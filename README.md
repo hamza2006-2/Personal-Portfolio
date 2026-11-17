@@ -32,5 +32,5 @@ This portfolio showcases my professional profile, technical skills, projects, an
 Currently developing and improving my personal portfolio website.
 
 ## Contact
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: www.linkedin.com/in/hamza-ahmed-275a58242
 - GitHub: https://github.com/hamza2006-2
